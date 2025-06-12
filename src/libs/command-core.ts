@@ -1,7 +1,9 @@
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import * as mathjs from "mathjs";
 import { splitByValue } from "./array";
 import { tokenize } from "./command";
 import messages from "./messages";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { resolvePath } from "./path";
 import type Storage from "./storage";
 
